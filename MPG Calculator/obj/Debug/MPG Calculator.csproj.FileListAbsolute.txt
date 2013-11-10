@@ -1,0 +1,13 @@
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\Bin\Debug\ApplicationIcon.png
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\Bin\Debug\Background.png
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\Bin\Debug\MPG Calculator.dll
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\Bin\Debug\MPG Calculator.pdb
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\Bin\Debug\AppManifest.xaml
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\Bin\Debug\MPG_Calculator.xap
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\obj\Debug\MPG Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\obj\Debug\App.g.cs
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\obj\Debug\MainPage.g.cs
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\obj\Debug\MPG Calculator.g.resources
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\obj\Debug\MPG Calculator.dll
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\obj\Debug\MPG Calculator.pdb
+C:\Users\Raymond\Documents\WP_MPG CALC\MPG Calculator\MPG Calculator\obj\Debug\XapCacheFile.xml
